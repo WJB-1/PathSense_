@@ -13,11 +13,14 @@ const EARTH_CIRCUMFERENCE = 2 * Math.PI * EARTH_RADIUS;
  * @param dms 度分秒字符串，如 "23°8'11''"
  * @returns 十进制度数
  */
-export function dmsToDecimal(dms: string): number {
+export function dmsToDecimal(dms: string | number): number {
+  // 如果已经是数字，直接返回
+  if (typeof dms === 'number') {
+    return dms;
+  }
   const regex = /(\d+)°(\d+)'([\d.]+)''/;
-  const match = dms.match(regex);
+  const match = String(dms).match(regex);
   if (!match) {
-    // 如果已经是数字，直接返回
     const num = parseFloat(dms);
     return isNaN(num) ? 0 : num;
   }
