@@ -1,0 +1,257 @@
+{
+	{
+		"point_id": "P001",
+		"coordinates": {
+			"longitude": 23°8'11'',
+       			"latitude":113°19'21''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P001_N.jpg",
+       			"NE": "images/P001_NE.jpg",
+       			"E": "images/P001_E.jpg",
+       			"SE": "images/P001_SE.jpg",
+       			"S": "images/P001_S.jpg",
+       			"SW": "images/P001_SW.jpg",
+       			"W": "images/P001_W.jpg",
+       			"NW": "images/P001_NW.jpg"
+     	},
+	{
+		"point_id": "P002",
+		"coordinates": {
+			"longitude": 23°8'10'',
+       			"latitude":113°19'28''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P002_N.jpg",
+       			"NE": "images/P002_NE.jpg",
+       			"E": "images/P002_E.jpg",
+       			"SE": "images/P002_SE.jpg",
+       			"S": "images/P002_S.jpg",
+       			"SW": "images/P002_SW.jpg",
+       			"W": "images/P002_W.jpg",
+       			"NW": "images/P002_NW.jpg"
+     	},
+	{
+		"point_id": "P003",
+		"coordinates": {
+			"longitude": 23°8'8'',
+       			"latitude":113°19'30''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P003_N.jpg",
+       			"NE": "images/P003_NE.jpg",
+       			"E": "images/P003_E.jpg",
+       			"SE": "images/P003_SE.jpg",
+       			"S": "images/P003_S.jpg",
+       			"SW": "images/P003_SW.jpg",
+       			"W": "images/P003_W.jpg",
+       			"NW": "images/P003_NW.jpg"
+     	},
+	{
+		"point_id": "P003",
+		"coordinates": {
+			"longitude": 23°8'8'',
+       			"latitude":113°19'30''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P003_N.jpg",
+       			"NE": "images/P003_NE.jpg",
+       			"E": "images/P003_E.jpg",
+       			"SE": "images/P003_SE.jpg",
+       			"S": "images/P003_S.jpg",
+       			"SW": "images/P003_SW.jpg",
+       			"W": "images/P003_W.jpg",
+       			"NW": "images/P003_NW.jpg"
+     	},
+	{
+		"point_id": "P004",
+		"coordinates": {
+			"longitude": 23°8'10'',
+       			"latitude":113°19'31''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P004_N.jpg",
+       			"NE": "images/P004_NE.jpg",
+       			"E": "images/P004_E.jpg",
+       			"SE": "images/P004_SE.jpg",
+       			"S": "images/P004_S.jpg",
+       			"SW": "images/P004_SW.jpg",
+       			"W": "images/P004_W.jpg",
+       			"NW": "images/P004_NW.jpg"
+     	},
+	{
+		"point_id": "P005",
+		"coordinates": {
+			"longitude": 23°8'10'',
+       			"latitude":133°19'41''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P005_N.jpg",
+       			"NE": "images/P005_NE.jpg",
+       			"E": "images/P005_E.jpg",
+       			"SE": "images/P005_SE.jpg",
+       			"S": "images/P005_S.jpg",
+       			"SW": "images/P005_SW.jpg",
+       			"W": "images/P005_W.jpg",
+       			"NW": "images/P005_NW.jpg"
+     	},
+	{
+		"point_id": "P006",
+		"coordinates": {
+			"longitude": 23°8'8'',
+       			"latitude":113°19'44''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P006_N.jpg",
+       			"NE": "images/P006_NE.jpg",
+       			"E": "images/P006_E.jpg",
+       			"SE": "images/P006_SE.jpg",
+       			"S": "images/P006_S.jpg",
+       			"SW": "images/P006_SW.jpg",
+       			"W": "images/P006_W.jpg",
+       			"NW": "images/P006_NW.jpg"
+     	},
+	{
+		"point_id": "P007",
+		"coordinates": {
+			"longitude": 23°8'9'',
+       			"latitude":113°19'47''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P007_N.jpg",
+       			"NE": "images/P007_NE.jpg",
+       			"E": "images/P007_E.jpg",
+       			"SE": "images/P007_SE.jpg",
+       			"S": "images/P007_S.jpg",
+       			"SW": "images/P007_SW.jpg",
+       			"W": "images/P007_W.jpg",
+       			"NW": "images/P007_NW.jpg"
+     	},
+	{
+		"point_id": "P008",
+		"coordinates": {
+			"longitude": 23°8'9'',
+       			"latitude":113°19'49''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P008_N.jpg",
+       			"NE": "images/P008_NE.jpg",
+       			"E": "images/P008_E.jpg",
+       			"SE": "images/P008_SE.jpg",
+       			"S": "images/P008_S.jpg",
+       			"SW": "images/P008_SW.jpg",
+       			"W": "images/P008_W.jpg",
+       			"NW": "images/P008_NW.jpg"
+     	},
+	{
+		"point_id": "P009",
+		"coordinates": {
+			"longitude": 23°8'9'',
+       			"latitude":113°19'51''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P009_N.jpg",
+       			"NE": "images/P009_NE.jpg",
+       			"E": "images/P009_E.jpg",
+       			"SE": "images/P009_SE.jpg",
+       			"S": "images/P009_S.jpg",
+       			"SW": "images/P009_SW.jpg",
+       			"W": "",
+       			"NW": "images/P009_NW.jpg"
+     	},
+	{
+		"point_id": "P010",
+		"coordinates": {
+			"longitude": 23°8'11'',
+       			"latitude":113°19'56''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P010_N.jpg",
+       			"NE": "images/P010_NE.jpg",
+       			"E": "images/P010_E.jpg",
+       			"SE": "images/P010_SE.jpg",
+       			"S": "images/P010_S.jpg",
+       			"SW": "images/P010_SW.jpg",
+       			"W": "images/P010_W.jpg",
+       			"NW": "images/P010_NW.jpg"
+     	},
+	{
+		"point_id": "P011",
+		"coordinates": {
+			"longitude": 23°8'13'',
+       			"latitude":113°20'1''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P011_N.jpg",
+       			"NE": "images/P011_NE.jpg",
+       			"E": "images/P011_E.jpg",
+       			"SE": "images/P011_SE.jpg",
+       			"S": "images/P011_S.jpg",
+       			"SW": "images/P011_SW.jpg",
+       			"W": "images/P011_W.jpg",
+       			"NW": "images/P011_NW.jpg"
+     	},
+	{
+		"point_id": "P012",
+		"coordinates": {
+			"longitude": 23°8'15'',
+       			"latitude":113°20'5''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P012_N.jpg",
+       			"NE": "images/P012_NE.jpg",
+       			"E": "images/P012_E.jpg",
+       			"SE": "images/P012_SE.jpg",
+       			"S": "images/P012_S.jpg",
+       			"SW": "images/P012_SW.jpg",
+       			"W": "images/P012_W.jpg",
+       			"NW": "images/P012_NW.jpg"
+     	},
+	{
+		"point_id": "P013",
+		"coordinates": {
+			"longitude": 23°8'17'',
+       			"latitude":113°20'12''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P013_N.jpg",
+       			"NE": "images/P013_NE.jpg",
+       			"E": "images/P013_E.jpg",
+       			"SE": "images/P013_SE.jpg",
+       			"S": "images/P013_S.jpg",
+       			"SW": "images/P013_SW.jpg",
+       			"W": "images/P013_W.jpg",
+       			"NW": "images/P013_NW.jpg"
+     	},
+	{
+		"point_id": "P014",
+		"coordinates": {
+			"longitude": 23°8'21'',
+       			"latitude":113°20'21''
+     		},
+     		"scene_description": "",
+     		"images": {
+       			"N": "images/P014_N.jpg",
+       			"NE": "images/P014_NE.jpg",
+       			"E": "images/P014_E.jpg",
+       			"SE": "images/P014_SE.jpg",
+       			"S": "images/P014_S.jpg",
+       			"SW": "images/P014_SW.jpg",
+       			"W": "images/P014_W.jpg",
+       			"NW": "images/P014_NW.jpg"
+     	}
+}
