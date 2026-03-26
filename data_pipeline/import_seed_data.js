@@ -13,7 +13,7 @@ const mongoose = require('mongoose');
 // 配置区域
 // ============================================
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/corsight_navigation';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/blind_map';
 const DATA_FILE_PATH = path.join(__dirname, 'map_data.json');
 
 // ============================================

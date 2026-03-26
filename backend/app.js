@@ -17,15 +17,31 @@ const mapRoutes = require('./routes/map');
 
 // 创建 Express 应用
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 // 中间件配置
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// 为静态文件添加 CORS 头的中间件
+app.use((req, res, next) => {
+  // 为所有响应添加 CORS 头
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, HEAD, POST, PUT, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+  
+  // 处理预检请求
+  if (req.method === 'OPTIONS') {
+    res.sendStatus(200);
+  } else {
+    next();
+  }
+});
+
 // 静态文件服务 - 用于访问上传的图片
-app.use('/public', express.static(path.join(__dirname, 'public')));
+// public 目录下的文件直接通过根路径访问 (如 /images/P001_N.jpg)
+app.use(express.static(path.join(__dirname, 'public')));
 
 // 健康检查端点
 app.get('/health', (req, res) => {
